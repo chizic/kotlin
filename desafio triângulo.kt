@@ -1,5 +1,3 @@
-import javax.management.Query.and
-
 /*Crie um programa que leia o tamanho de três segmentos de reta.
  Analise seus cumprimentos e diga se é possível formar um triângulo com essas retas.
  Matematicamente, para três segmentos formarem um triângulo,
